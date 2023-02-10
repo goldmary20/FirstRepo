@@ -1,0 +1,3 @@
+This is my firstfile with command
+create touch master.txt
+open $notepad master.txt
